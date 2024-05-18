@@ -1,6 +1,6 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
-### DEVELOPED BY:guntur shaik mohammad shahil
-### REG NO:212223240044
+### DEVELOPED BY:Darius Rijin I
+### REG NO:212223230037
 ## AIM:
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
