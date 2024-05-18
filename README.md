@@ -61,11 +61,13 @@ endmodule
 
 ## RTL LOGIC FOR SISO Shift Register:
 
-<img width="553" alt="Exd-10" src="https://github.com/mohammadshahil09/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/149347704/e36d74d9-0a9f-4b59-ad23-aa85fcd65344">
+![image](https://github.com/DariusRijin07/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/138849120/f2cbfa88-7101-4d0f-94f4-812a29b76dfd)
+
 
 ## TIMING DIGRAMS FOR SISO Shift Register:
 
-![324244048-b0182cc2-4c6c-4fca-9aed-811e977833cc](https://github.com/mohammadshahil09/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/149347704/73410eae-66db-4520-bc98-e595daf5dd79)
+![image](https://github.com/DariusRijin07/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/138849120/1b306d14-f239-4fcd-8e31-90990d84ea38)
+
 
 
 ## RESULTS:
